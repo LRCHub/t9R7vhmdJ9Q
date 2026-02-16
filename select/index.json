@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Tú de Qué Vas",
+  "base_artist": "Franco de Vita",
+  "createdAt": "2026-02-16T21:23:58.352875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tú de Qué Vas",
+      "artist": "Carlos Rivera",
+      "has_synced": true,
+      "path": "select/01_Tú_de_Qué_Vas_Carlos_Rivera.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tú de Que Vas",
+      "artist": "Franco de Vita",
+      "has_synced": true,
+      "path": "select/02_Tú_de_Que_Vas_Franco_de_Vita.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tú De Qué Vas",
+      "artist": "Adrian Zamarripa",
+      "has_synced": true,
+      "path": "select/03_Tú_De_Qué_Vas_Adrian_Zamarripa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tú De Que Vas",
+      "artist": "Daniela Romo",
+      "has_synced": true,
+      "path": "select/04_Tú_De_Que_Vas_Daniela_Romo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tu De Que Vas\u001fTu De Que Vas",
+      "artist": "Alameños de la Sierra",
+      "has_synced": true,
+      "path": "select/05_Tu_De_Que_Vas_Tu_De_Que_Vas_Alameños_de_la_Sierra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tú de Qué Vas",
+      "artist": "Franco de Vita",
+      "has_synced": true,
+      "path": "select/06_Tú_de_Qué_Vas_Franco_de_Vita.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tú de Qué Vas",
+      "artist": "Franco de Vita",
+      "has_synced": true,
+      "path": "select/07_Tú_de_Qué_Vas_Franco_de_Vita.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tu de Que Vas",
+      "artist": "Los 4",
+      "has_synced": true,
+      "path": "select/08_Tu_de_Que_Vas_Los_4.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tu, de què vas?",
+      "artist": "Els Pets",
+      "has_synced": false,
+      "path": "select/09_Tu,_de_què_vas_Els_Pets.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "¿Tú de qué vas?",
+      "artist": "Franco de Vita",
+      "has_synced": true,
+      "path": "select/10_¿Tú_de_qué_vas_Franco_de_Vita.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tu De Que Vas",
+      "artist": "Angel Montoya",
+      "has_synced": false,
+      "path": "select/11_Tu_De_Que_Vas_Angel_Montoya.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tú De Qué Vas",
+      "artist": "Banda Cuisillos",
+      "has_synced": true,
+      "path": "select/12_Tú_De_Qué_Vas_Banda_Cuisillos.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tú de qué vas",
+      "artist": "Franco de Vita",
+      "has_synced": true,
+      "path": "select/13_Tú_de_qué_vas_Franco_de_Vita.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tú de Qué Vas",
+      "artist": "Banda XXI",
+      "has_synced": false,
+      "path": "select/14_Tú_de_Qué_Vas_Banda_XXI.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "tu de que vas",
+      "artist": "franco de vita",
+      "has_synced": true,
+      "path": "select/15_tu_de_que_vas_franco_de_vita.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tu De Que Vas",
+      "artist": "Ephrem J",
+      "has_synced": true,
+      "path": "select/16_Tu_De_Que_Vas_Ephrem_J.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tu de Que Vas",
+      "artist": "Los 4",
+      "has_synced": true,
+      "path": "select/17_Tu_de_Que_Vas_Los_4.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tu de que vas",
+      "artist": "Los 4",
+      "has_synced": true,
+      "path": "select/18_Tu_de_que_vas_Los_4.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Tú De Que Vas",
+      "artist": "Toño Rosario",
+      "has_synced": false,
+      "path": "select/19_Tú_De_Que_Vas_Toño_Rosario.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tú de Qué Vas",
+      "artist": "Franco De Vita",
+      "has_synced": false,
+      "path": "select/pl_01_Tú_de_Qué_Vas_Franco_De_Vita.txt"
+    }
+  ]
+}
